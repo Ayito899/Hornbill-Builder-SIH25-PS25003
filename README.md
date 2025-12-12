@@ -317,12 +317,10 @@ Serial Monitor: 115200 baud
 
 Mobile App: ThingSpeak app for iOS/Android
 
-<div align="center">
 Made with ❤️ for the IoT Community
 
 https://api.star-history.com/svg?repos=yourusername/nodemcu-multi-sensor&type=Date
 
-</div>
 Quick Start Cheat Sheet:
 bash
 # 1. Clone & setup
@@ -341,4 +339,5 @@ pio device monitor
 
 # 5. Check data
 # Visit: https://thingspeak.com/channels/YOUR_ID
+
 Happy Monitoring! 🌱📡
