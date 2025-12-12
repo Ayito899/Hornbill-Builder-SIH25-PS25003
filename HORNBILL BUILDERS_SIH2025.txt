@@ -1,0 +1,9 @@
+Team Name: HORNBILL BUILDERDS
+Institute name: NATIONAL INSTITUTE OF TECHNOLOGY NAGALAND
+Team members:
+ Saurav Mishra- ( Team leader)Overall planning, coordination, cost analysis, bamboo studies and presentation.
+Srija Gompa- Cost effectiveness of natural resources, its feasibility ,comparisons and mechanical solutions  
+Aotushi Imsong-Study and preparation of concrete mould, drainage and terrace sloping 
+Venkata Surendra Makkena- designing analysis and testing
+Ayito Ladu- Software Integration 
+Kina Assumi-  Circuit Design for IOT implementation
