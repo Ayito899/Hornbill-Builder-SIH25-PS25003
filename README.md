@@ -301,13 +301,6 @@ ESP8266 Community
 
 MPU6050 Library
 
-📞 Support
-Issues: GitHub Issues
-
-Documentation: Wiki
-
-Email: your.email@example.com
-
 📊 Real-time Monitoring
 Access your data:
 
